@@ -6,8 +6,8 @@ Collection of popular and reproducible remote sensing image super resolution wor
 * Set14
 * Urban100
 * [UC Merced](http://weegee.vision.ucmerced.edu/datasets/landuse.html)
-* [RSIs-CB256]
-* [AID](https://captain-whu.github.io/AID/), [Cite](https://ieeexplore.ieee.org/document/7907303)
+* [RSIs-CB256](https://github.com/lehaifeng/RSI-CB)
+* [AID](https://captain-whu.github.io/AID/)
 
 ## Related Papers
 |Pub|Year|Title|Code|
