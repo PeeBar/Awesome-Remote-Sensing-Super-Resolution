@@ -1,6 +1,5 @@
 # Awesome-Remote-Sensing-Super-Resolution
 Collection of popular and reproducible remote sensing image super resolution works.
-# Cloud Removal
 
 ## Benchmark dataset
 * Set5
