@@ -20,5 +20,6 @@ Collection of popular and reproducible remote sensing image super resolution wor
 |IEEE TGRS|2022|[Multilayer Degradation Representation-Guided Blind Super-Resolution for Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9833534)|-|
 |IEEE TGRS|2022|[Transformer-Based Multistage Enhancement for Remote Sensing Image Super-Resolution](https://ieeexplore.ieee.org/document/9654169)|[Code](https://github.com/Shaosifan/TransENet)|
 |IEEE TGRS|2022|[Contextual Transformation Network for Lightweight Remote-Sensing Image Super-Resolution]([https://ieeexplore.ieee.org/document/9654169](https://ieeexplore.ieee.org/document/9632567))|[Code](https://github.com/BITszwang/CTNet)|
+|RS|2022|[TE-SAGAN: An Improved Generative Adversarial Network for Remote Sensing Super-Resolution Images](https://www.mdpi.com/2072-4292/14/10/2425/htm)|-|
 
 
