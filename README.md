@@ -12,6 +12,7 @@ Collection of popular and reproducible remote sensing image super resolution wor
 ## Related Papers
 |Pub|Year|Title|Code|
 |:---:|:---:|:---:|:---:|
+|RS|2019|[Deep Residual Squeeze and Excitation Network for Remote Sensing Image Super-Resolution](https://www.mdpi.com/2072-4292/11/15/1817)|-|
 |IEEE TGRS|2019|[Remote sensing image superresolution using deep residual channel attention](https://ieeexplore.ieee.org/abstract/document/8770258)|-|
 |IEEE TGRS|2019|[Edge-Enhanced GAN for Remote Sensing Image Superresolution](https://ieeexplore.ieee.org/document/8677274)|[Code](https://github.com/kuijiang94/EEGAN)|
 |IEEE TGRS|2020|[Scene-Adaptive Remote Sensing Image Super-Resolution Using a Multiscale Attention Network](https://ieeexplore.ieee.org/abstract/document/8978758)|-|
